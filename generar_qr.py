@@ -1,7 +1,7 @@
 import qrcode
 
 # URL cruda del archivo HTML en GitHub
-pagina_url = "https://github.com/arirodriguez001/young/raw/main/pagina.html"
+pagina_url = "https://arirodriguez001.github.io/young/pagina.html"
 
 # Crear el código QR con la URL del archivo HTML
 qr = qrcode.make(pagina_url)
